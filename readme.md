@@ -104,3 +104,5 @@ console.log(set);
 <img src="./images/image-3.gif" width="1200px">
 
 # Барои маълумоти бештар гирифтан ба [линки](https://www.canva.com/design/DAGaOluyLCs/cltTI71FktTTBKnMqJ5snw/view?utm_content=DAGaOluyLCs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4bafa8cb43#7) зерин пахш кунед.
+
+# [readme-file powered by Shohrukh](https://github.com/Shohrukh-Abduvakhidov)
