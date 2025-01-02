@@ -99,3 +99,8 @@ console.log(set);
 ```
 # Хулоса
 # Ин дастур конструкторҳои маъруфи JavaScript, аз ҷумла Date, Object, Array, Function, Map ва Set -ро шенасоии мекунад. Фаҳмидани истифодаи ин конструкторҳо кӯмак мекунад, ки шумо кодро ба таври динамикӣ ва самараноктар эҷод кунед.
+
+# Бо ҳамин тамом ташаккури зиёд
+<img src="./images/image-3.gif" width="1200px">
+
+# Барои маълумоти бештар гирифтан ба [линки](https://www.canva.com/design/DAGaOluyLCs/cltTI71FktTTBKnMqJ5snw/view?utm_content=DAGaOluyLCs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4bafa8cb43#7) зерин пахш кунед.
